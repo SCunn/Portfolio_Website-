@@ -10189,7 +10189,7 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: transparent;
+    background: linear-gradient(to top, #00000000, #454545e3);
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
